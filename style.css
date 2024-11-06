@@ -1,0 +1,42 @@
+.main{
+    background-color: #2d3a8c;
+    height: 100vh;
+}
+
+.formDiv {
+    background-color: #ffff;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+}
+
+.form {
+    background-color: #f5f7fa;
+    border-radius: 28px;
+    border: 1px solid #cbd2d9;
+}
+.formDiv h1{
+    font-size: 24px;
+}
+#submitBtn {
+    background-color: #2d3a8c;
+}
+.form label{
+    color: #7b8794;
+    font-weight: bold;
+    font-size: 14px;
+}
+.bookmark {
+    background-color: #f5f7fa;
+    border: 1px solid #cbd2d9;
+    border-radius: 14px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+#bookmarkList li h1 {
+    font-size: 18px;
+    color: #323f4b;
+}
+.item {
+    background-color: #ffff;
+}
